@@ -1,0 +1,14 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-2--1334616064
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=1612 outsize=2005 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=1612 outsize=2982 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=1612 outsize=626 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=1612 outsize=3145 kw= ok=1
+End of pipe
+
+Quitting shader compiler process
